@@ -1,5 +1,5 @@
 {
-    "name": "balkis789/tes-cdn",
+    "name": "balkis789/tescreateproject",
     "description": "Contoh Tes CDN",
     "type": "library",
     "license": "MIT",
@@ -11,15 +11,15 @@
     ],
     "minimum-stability": "dev",
     "autoload" : {
-        "psr-4":{ "balkis789\\tes-cdn\\" : "icon/"}
+        "psr-4":{ "balkis789\\tescreateproject\\" : "icon/"}
     },
     "require": {
-        "balkis789/tes-cdn":"dev-master@dev"
+        "balkis789/tescreateproject":"dev-master@dev"
     },
     "repositories": [
     {
        "type": "vcs",
-       "url": "https://github.com/balkis789/tes-cdn"
+       "url": "https://github.com/balkis789/tescreateproject"
     }
   ]
 }
