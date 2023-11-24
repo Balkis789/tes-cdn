@@ -14,9 +14,7 @@
             "role": "Developer"
         }
     ],
-    "require": {
-        "balkis789/tescreateproject": "1.0.1"
-    },
+    "require": {},
     "autoload" : {
         "psr-4":{ "tescreateproject\\" : "icon/"}
     }
