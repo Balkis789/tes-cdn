@@ -13,9 +13,6 @@
     "autoload" : {
         "psr-4":{ "balkis789\\tescreateproject\\" : "icon/"}
     },
-    "require": {
-        "balkis789/tescreateproject":"dev-master@dev"
-    },
     "repositories": [
     {
        "type": "vcs",
