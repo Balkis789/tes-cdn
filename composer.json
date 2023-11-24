@@ -1,22 +1,18 @@
 {
     "name": "balkis789/tescreateproject",
-    "description": "Contoh Tes CDN",
-    "type": "library",
+    "type": "template",
+    "description": "A project template to make creating new (type goes here) projects easier.",
+    "keywords": ["template"],
+    "homepage": "https://github.com/balkis789/tescreateproject",
     "license": "MIT",
     "authors": [
         {
             "name": "Balkis789",
-            "email": "balkisbalkis789@gmail.com"
+            "email": "balkisbalkis789@gmail.com",
+            "homepage": "https://tatiye.net",
+            "role": "Developer"
         }
-    ],
-    "minimum-stability": "dev",
-    "autoload" : {
-        "psr-4":{ "balkis789\\tescreateproject\\" : "icon/"}
-    },
-    "repositories": [
-    {
-       "type": "vcs",
-       "url": "https://github.com/balkis789/tescreateproject"
-    }
-  ]
+    ]
 }
+
+
