@@ -1,0 +1,17 @@
+{
+    "name": "Balkis789/tesCdn",
+    "description": "Contoh Tes CDN",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Balkis789",
+            "email": "balkisbalkis789@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-4":{ "Balkis789\\tesCdn\\"}
+    },
+    "require": {}
+}
