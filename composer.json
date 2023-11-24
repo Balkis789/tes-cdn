@@ -13,9 +13,8 @@
             "role": "Developer"
         }
     ],
-    "require": {
-        "php": ">=5.6.40"
-    },
+    "require": {},
+    "minimum-stability": "dev-main@dev",
     "autoload" : {
         "psr-4":{ "tescreateproject\\" : "icon/"}
     }
