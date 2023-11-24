@@ -1,6 +1,6 @@
 {
     "name": "balkis789/tescreateproject",
-    "version": "dev-main",
+    "version": "0.0.1",
     "type": "library",
     "description": "A project to make creating new (type goes here) projects easier.",
     "keywords": ["icon"],
@@ -15,7 +15,6 @@
         }
     ],
     "require": {},
-    "minimum-stability": "dev",
     "autoload" : {
         "psr-4":{ "tescreateproject\\" : "icon/"}
     }
