@@ -1,7 +1,7 @@
 {
     "name": "balkis789/tescreateproject",
     "type": "library",
-    "description": "A project to make creating new (type goes here) projects easier."
+    "description": "A project to make creating new (type goes here) projects easier.",
     "homepage": "https://github.com/balkis789/tescreateproject",
     "license": "MIT",
     "authors": [
@@ -16,6 +16,12 @@
     "autoload" : {
         "psr-4":{ "balkis789\\tescreateproject\\" : "icon/"}
     },
+      "repositories": [
+    {
+       "type": "vcs",
+       "url": "https://github.com/balkis789/tescreateproject"
+    }
+  ]
   
 }
 
