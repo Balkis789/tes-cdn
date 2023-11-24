@@ -1,5 +1,5 @@
 {
-    "name": "Balkis789/tes-cdn",
+    "name": "balkis789/tes-cdn",
     "description": "Contoh Tes CDN",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "autoload" : {
-        "psr-4":{ "Balkis789\\tes-cdn\\" : "icon/"}
+        "psr-4":{ "balkis789\\tes-cdn\\" : "icon/"}
     },
     "require": {}
 }
