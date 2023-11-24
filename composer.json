@@ -13,10 +13,10 @@
         }
     ],
     "autoload" : {
-        "psr-4":{ "balkis789\\tescreateproject\\" : "icon/"}
+        "psr-4":{ "tescreateproject\\" : "icon/"}
     },
     "require": {
-        "tescreateproject":"dev-main@dev"
+        "balkis789/tescreateproject":"dev-main@dev"
       }
   
 }
