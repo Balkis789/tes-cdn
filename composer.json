@@ -13,5 +13,13 @@
     "autoload" : {
         "psr-4":{ "balkis789\\tes-cdn\\" : "icon/"}
     },
-    "require": {}
+    "require": {
+        "balkis789/tes-cdn":"dev-master@dev"
+    },
+    "repositories": [
+    {
+       "type": "vcs",
+       "url": "https://github.com/balkis789/tes-cdn"
+    }
+  ]
 }
