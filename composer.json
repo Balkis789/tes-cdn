@@ -12,12 +12,10 @@
             "role": "Developer"
         }
     ],
+    "minimum-stability": "dev",
     "autoload" : {
         "psr-4":{ "tescreateproject\\" : "icon/"}
-    },
-    "require": {
-        "balkis789/tescreateproject":"dev-main@dev"
-      }
+    }
   
 }
 
