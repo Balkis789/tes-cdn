@@ -2,6 +2,7 @@
     "name": "balkis789/tescreateproject",
     "type": "library",
     "description": "A project to make creating new (type goes here) projects easier.",
+    "keywords": ["icon"],
     "homepage": "https://github.com/balkis789/tescreateproject",
     "license": "MIT",
     "authors": [
@@ -12,7 +13,9 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4.2"
+    },
     "autoload" : {
         "psr-4":{ "tescreateproject\\" : "icon/"}
     }
