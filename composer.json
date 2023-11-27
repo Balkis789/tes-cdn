@@ -1,11 +1,12 @@
 {
     "name": "balkis789/tescreateproject",
     "version": "0.0.1",
-    "type": "library",
+    "type": "project",
     "description": "A project to make creating new (type goes here) projects easier.",
     "keywords": ["icon"],
     "homepage": "https://github.com/balkis789/tescreateproject",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Balkis789",
